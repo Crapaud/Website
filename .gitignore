@@ -7,3 +7,6 @@ vendor
 bin
 composer.phar
 app/config/parameters_local.yml
+src/Cornichon/ForumBundle
+
+src/Cornichon/UserBundle
